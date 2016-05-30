@@ -2,6 +2,5 @@
  *= require jquery
  *= require ./bootstrap/bootstrap
  *= require ./bootstrap/bootstrap-theme
- *= require ./bootstrap/font-awesome
- *= require_self
+ *= require ./font_awesome/font-awesome
  */
